@@ -1,1 +1,24 @@
-
+<html>
+<head>
+<title> systechgroup</title>
+ <link rel="icon" type="image/png" href="HTMLimgg.png">
+<style>
+	h1{color:yellow ;}
+	h2{color: red;}
+</style>
+<h1>
+	<b>systech group</b>
+</h1>
+<h2> WEB DEVELOPMENT COURSE</h2>
+</head>
+<img src="imagest.jpg" alt="image" usemap="#m" width="400" height="379">
+<body style="text-align: center">
+	<nav>
+		<a href="https://systechgroup.in/">DAJANGO</a>
+		<a href="https://systechgroup.in/">PYTHON</a>
+		<a href="https://systechgroup.in/">SQL</a>
+	</nav>
+	<br>
+	<a href="https://systechgroup.in/">more info click here....</a>
+</body>
+</html>
